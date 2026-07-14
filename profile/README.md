@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="../assets/ToonCamPaul.webp"
+    alt="The Vox Host team standing together on a busy city street"
+    width="100%"
+  >
+</p>
+
 # Vox Host
 
 Vox Host brings digital ideas to life.
